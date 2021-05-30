@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight:300;
+}
+
+/* .head {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(2,1fr);
+    
+} */
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+/* hr {
+    border-width: 2px;
+    border-color: #bcbbbb;
+    background-color: #bcbbbb;
+    max-width: 1000px;
+} */
+
+/* .cover {
+    display: grid; position: relative;
+    grid-template-columns: 200px 100px; grid-template-rows: 100px 100px;
+    grid-auto-columns: 100px; grid-auto-rows: 100px;
+    width: 500px; height: 400px;
+    grid-area: 1 / 3;
+} 
